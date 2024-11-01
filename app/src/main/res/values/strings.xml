@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CapstoneLogin</string>
+    <string name="naver_client_id">ZQa5G4SzdqYwieMC1j4s</string>
+    <string name="naver_client_secret">awvOLZZaB4</string>
+    <string name="naver_client_name">SCA</string>
+    <string name="kakao_app_key">5e287fdc679a8338bc7758a4da960821</string>
+</resources>
